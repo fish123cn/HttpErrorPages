@@ -1,6 +1,6 @@
 # HttpErrorPages创意错误码网站介绍与部署指南
 为您的Nginx Web服务器提供美观、详细的HTTP错误页面，支持常见的14种错误代码。Provide your Nginx web server with beautiful and detailed HTTP error pages, supporting 14 common error codes.
-![Uploading image.png…]()
+![Uploading image.png…](https://error.fish1234.cn/error-photos/example.png)
 
 ## 项目介绍
 
